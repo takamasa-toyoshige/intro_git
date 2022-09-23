@@ -1,2 +1,4 @@
 Git Test
-Git Workflowgir
+Git Workflow
+・git add
+・git commit
